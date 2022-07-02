@@ -8,6 +8,10 @@ In this I am going to make an iso from .bin with grub
 
 - grub-mkrescue
 
+# resoures
+
+- [https://intermezzos.github.io/book/first-edition/running-in-qemu.html](https://intermezzos.github.io/book/first-edition/running-in-qemu.html)
+
 # Tutorial
 
 ```console
